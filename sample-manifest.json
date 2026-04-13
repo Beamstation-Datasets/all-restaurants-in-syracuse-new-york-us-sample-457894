@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b82ab3c4-b64e-491d-b004-cf843962a942",
+  "id_short": 457894,
+  "published_at": "2026-04-13T07:02:42Z",
+  "repo_name": "all-restaurants-in-syracuse-new-york-us-sample-457894",
+  "sample_asset_name": "beamstation_457894_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/457894/beamstation_457894_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "80bb0bafd721b4b7d7c83a10d0b4777547c22e84e8cc1e904ecac8fb70714132",
+  "sample_size_bytes": 119138,
+  "total_records": 562
+}
