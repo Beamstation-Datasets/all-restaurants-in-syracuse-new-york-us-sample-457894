@@ -1,6 +1,6 @@
 # All Restaurants in Syracuse, New York, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 79 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `457894` |
 | Location | Syracuse |
 | Category | Restaurants |
-| Full dataset size | 562 records |
-| Free sample size | 25 records (4.45%) |
-| Last export | 2026-03-31T13:16:59.938702+00:00 |
+| Full dataset size | 791 records |
+| Free sample size | 79 records (9.99%) |
+| Last export | 2026-04-14T13:36:41.362825+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-syracuse-new-york-us-sample-457894/releases/download/sample-latest/beamstation_457894_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
